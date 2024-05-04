@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**cangku/cangku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm wufei, a freelancer specializing in full-stack development.
 
-Here are some ideas to get you started:
+🔭 Currently seeking a long-term remote opportunity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm constantly learning and growing, particularly keen on staying updated with new technologies and tools.
+
+👯 I'm looking to collaborate with fellow developers to explore new projects and technical challenges.
+
+💬 Feel free to reach out to me if you have questions about full-stack development or remote work.
+
+📫 You can contact me via readme@unofficial.cn.
+
+<!-- ⚡ Fun fact: -->
+
+Feel free to explore my repositories and don't hesitate to get in touch if you'd like to collaborate or connect!
